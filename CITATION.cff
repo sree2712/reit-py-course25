@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: REIT-python-course-2025
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sreeparna
+    family-names: Deb
+    email: sreeparna9324@gmail.com
+    name-particle: Sreeparna
+    affiliation: TU Delft
+    orcid: 'https://orcid.org/0009-0002-9622-6663'
